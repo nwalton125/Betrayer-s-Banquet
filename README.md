@@ -1,0 +1,2 @@
+# BetrayersBanquet
+Simulation, based on http://www.betrayersbanquet.com/ . This is a many player variant of Prisoner's Dilemma. The code in this repository lets you simulate some number of rounds of the Betrayers' Banquet with any even number of players, and record the statistics. A few different player types are implemented, mostly based on the ones in Axelrod's original paper at <a href="https://www.jstor.org/stable/173638?seq=1#page_scan_tab_contents">Axelrod's original paper</a>, and it's possible to add your own. 
